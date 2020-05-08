@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DE9F-0607
+
+ Directory of C:\Users\asd\Desktop\NF
+
+08/05/2020  05:38 PM    <DIR>          .
+08/05/2020  05:38 PM    <DIR>          ..
+08/05/2020  05:38 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  22,272,512,000 bytes free
